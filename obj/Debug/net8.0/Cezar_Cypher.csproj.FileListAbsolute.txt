@@ -1,0 +1,14 @@
+/Users/patricktocut/Documents/C#/Cezar_Cypher/bin/Debug/net8.0/Cezar_Cypher
+/Users/patricktocut/Documents/C#/Cezar_Cypher/bin/Debug/net8.0/Cezar_Cypher.deps.json
+/Users/patricktocut/Documents/C#/Cezar_Cypher/bin/Debug/net8.0/Cezar_Cypher.runtimeconfig.json
+/Users/patricktocut/Documents/C#/Cezar_Cypher/bin/Debug/net8.0/Cezar_Cypher.dll
+/Users/patricktocut/Documents/C#/Cezar_Cypher/bin/Debug/net8.0/Cezar_Cypher.pdb
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.AssemblyInfoInputs.cache
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.AssemblyInfo.cs
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.csproj.CoreCompileInputs.cache
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.dll
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/refint/Cezar_Cypher.dll
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.pdb
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/Cezar_Cypher.genruntimeconfig.cache
+/Users/patricktocut/Documents/C#/Cezar_Cypher/obj/Debug/net8.0/ref/Cezar_Cypher.dll
